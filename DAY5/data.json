@@ -1,0 +1,25 @@
+{
+  "racipe": [
+    {
+      "item": "Maggiee",
+      "description": "json-server",
+      "image": "food2.jpg",
+      "price": "120",
+      "id": 2
+    },
+    {
+      "item": "Maggi",
+      "description": "json-server",
+      "image": "food2.jpg",
+      "price": "120",
+      "id": 2
+    },
+    {
+      "item": "Biryani",
+      "description": "json-server",
+      "image": "food3.jpg",
+      "price": "120",
+      "id": 3
+    }
+  ]
+}

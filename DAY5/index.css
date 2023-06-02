@@ -1,0 +1,18 @@
+#show{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+#show img{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    border: 2px solid black;
+    border-width: 20px;
+}
+
+#show img:hover {
+    width: 250px;
+    height: 250px;
+}
