@@ -1,0 +1,28 @@
+  {
+    "email": "lion@gmail.com",
+    "profile": "https://www.shutterstock.com/image-photo/lion-king-isolated-on-black-260nw-564253519.jpg",
+    "name": "lion",
+    "address": "gate1",
+    "id": 2
+  },
+  {
+    "email": "tiger@gmail.com",
+    "profile": "https://upload.wikimedia.org/wikipedia/commons/4/41/Siberischer_tiger_de_edit02.jpg",
+    "name": "tiger",
+    "address": "gate2",
+    "id": 3
+  },
+  {
+    "email": "elephant@gmail.com",
+    "profile": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg",
+    "name": "elephant",
+    "address": "gate3",
+    "id": 5
+  },
+  {
+    "email": "giraffe@gmail.com",
+    "profile": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Giraffe.JPG",
+    "name": "giraffe",
+    "address": "gate4",
+    "id": 6
+  }
